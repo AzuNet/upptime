@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Serveur Web
-    url: 171.22.147.65
+    url: http://171.22.147.65
   - name: PhpMyAdmin
     url: https://pma.azunet.studio
   - name: WebMail
