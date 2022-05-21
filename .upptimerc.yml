@@ -19,8 +19,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AzuNet Status
-   introTitle: "**AzuNet** Status."
-  introMessage: Se met à jour toutes les 5 minutes
     - title: Status
       href: /
     - title: Discord
